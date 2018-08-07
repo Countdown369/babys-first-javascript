@@ -1,0 +1,3 @@
+This is just a short piece of code that I wrote upon being asked to manually replace values for iPad storage space in my school's database at my internship. Values were listed as "amount of available storage space left", but my school wanted these values to indicate the advertised storage space by Apple (i.e., "12.72" would need to be converted to say "16 GB"). Instead of going through all 1400 rows as asked, I looked online for how to write Google Sheets functions and came up with this several minutes later.
+
+I'm actually more proud of this than I should be (if you couldn't tell already) because it's the first code I was ever paid to write! :)
